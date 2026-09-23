@@ -79,7 +79,6 @@ Same facts, fewer words, no preamble, no closer, and the verification step is ex
 ## Credits
 
 * ASD-STE100 Simplified Technical English for the writing discipline.
-* The No Slop and No AI Slop styles for showing that filler can be removed at the source.
 
 ## License
 
